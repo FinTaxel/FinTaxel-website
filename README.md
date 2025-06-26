@@ -1,75 +1,82 @@
 # FinTaxel
-<section id="services" class="services-section">
-  <div class="container">
-    <h2 class="section-title">Our Services</h2>
-    <p>At <strong>FinTaxel</strong>, we offer a comprehensive suite of professional services designed to support businesses and individuals in achieving financial clarity, compliance, and strategic growth. With expertise across accounting, audit, taxation, and advisory, we provide end-to-end solutions tailored to meet your specific needs.</p>
+## Our Services
 
-    <div class="service-block">
-      <h3>CFO Services</h3>
-      <p>We assist businesses with the <strong>design, implementation, and review of accounting systems</strong>, ensuring seamless financial operations. Our <strong>CFO services</strong> also include <strong>GST & TDS compliance</strong>, and detailed <strong>MIS reporting</strong>, empowering management with accurate and timely insights for strategic decision-making.</p>
-    </div>
+At **FinTaxel**, we offer a comprehensive suite of professional services designed to support businesses and individuals in achieving financial clarity, compliance, and strategic growth. With expertise across accounting, audit, taxation, and advisory, we provide end-to-end solutions tailored to meet your specific needs.
 
-    <div class="service-block">
-      <h3>Audit & Assurance</h3>
-      <ul>
-        <li>Statutory, Internal, Income Tax & GST Audits</li>
-        <li>Performance & Stock Audits</li>
-        <li>Due Diligence & Special Purpose Audits</li>
-      </ul>
-    </div>
+---
 
-    <div class="service-block">
-      <h3>Corporate Compliance</h3>
-      <ul>
-        <li>Incorporation of companies, LLPs, and firms</li>
-        <li>Annual filings & event-based compliances</li>
-        <li>Corporate law advisory & secretarial services</li>
-      </ul>
-    </div>
+### CFO Services
 
-    <div class="service-block">
-      <h3>GST Compliance Services</h3>
-      <ul>
-        <li>GST Registration & Return Filing</li>
-        <li>ITC Management, Audits & Assessments</li>
-        <li>Refunds, Advisory, and Industry-Specific Solutions</li>
-      </ul>
-    </div>
+We assist businesses with the **design, implementation, and review of accounting systems**, ensuring seamless financial operations. Our CFO services also include **GST & TDS compliance**, and detailed **MIS reporting**, empowering management with accurate and timely insights for strategic decision-making.
 
-    <div class="service-block">
-      <h3>NRI Services</h3>
-      <ul>
-        <li>NRI Tax Filing & Representation</li>
-        <li>Investment Advisory & Wealth Management</li>
-        <li>Return-to-India Planning</li>
-      </ul>
-    </div>
+---
 
-    <div class="service-block">
-      <h3>Advisory Services</h3>
-      <ul>
-        <li>Startup Consulting & Business Valuation</li>
-        <li>Feasibility Studies & Project Reports</li>
-        <li>Corporate Training & Tax Planning</li>
-      </ul>
-    </div>
+### Audit & Assurance
 
-    <div class="service-block">
-      <h3>IT & Data Compliance</h3>
-      <ul>
-        <li>Information Security & Risk Management</li>
-        <li>System & Compliance Audits (ISO 27001, GDPR, PCI DSS)</li>
-        <li>Data Privacy Advisory</li>
-      </ul>
-    </div>
+Our audit and assurance services ensure your financial reporting is **transparent, reliable, and regulatory-compliant**.
 
-    <div class="service-block">
-      <h3>Accounting, Audit & Taxation</h3>
-      <ul>
-        <li>Bookkeeping & Accounting Record Maintenance</li>
-        <li>Bank, Trust & NGO Audits</li>
-        <li>Tax Representation & Statutory Compliance</li>
-      </ul>
-    </div>
-  </div>
-</section>
+- Statutory, Internal, Income Tax & GST Audits  
+- Performance & Stock Audits  
+- Due Diligence & Special Purpose Audits
+
+---
+
+### Corporate Compliance
+
+Stay ahead in a dynamic regulatory environment with our **end-to-end compliance solutions**:
+
+- Incorporation of companies, LLPs, and firms  
+- Annual filings & event-based compliances  
+- Corporate law advisory & secretarial services
+
+---
+
+### GST Compliance Services
+
+We simplify GST for businesses by offering:
+
+- GST Registration & Return Filing  
+- ITC Management, Audits & Assessments  
+- Refunds, Advisory, and Industry-Specific Solutions
+
+---
+
+### NRI Services
+
+From taxation to investment planning, we help NRIs manage their finances with confidence:
+
+- NRI Tax Filing & Representation  
+- Investment Advisory & Wealth Management  
+- Return-to-India Planning
+
+---
+
+### Advisory Services
+
+Our strategic advisory solutions include:
+
+- Startup Consulting & Business Valuation  
+- Feasibility Studies & Project Reports  
+- Corporate Training & Tax Planning
+
+---
+
+### IT & Data Compliance
+
+Protect your digital infrastructure and stay compliant with our expert IT services:
+
+- Information Security & Risk Management  
+- System & Compliance Audits (ISO 27001, GDPR, PCI DSS)  
+- Data Privacy Advisory
+
+---
+
+### Accounting, Audit & Taxation
+
+We offer full-spectrum financial support through:
+
+- Bookkeeping & Accounting Record Maintenance  
+- Bank, Trust & NGO Audits  
+- Tax Representation & Statutory Compliance
+
+
